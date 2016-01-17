@@ -1,0 +1,181 @@
+/* Global Styles */
+
+body {
+	width: 75%;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	text-align: left;
+	
+	}
+
+	
+td {
+	color:#003366;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	}
+	
+a {
+	color: #0D96DF;
+	font-weight:bold;
+	}
+	
+a:hover {
+	color: #009900;
+	}
+
+/* ID Styles */
+
+#navigation td {
+	border-bottom: 2px solid #00CC33;
+	}
+	
+#navigation a {
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	color: #003366;
+	line-height:16px;
+	letter-spacing:.1em;
+	text-decoration: none;
+	display:block;
+	padding:8px 6px 10px 26px;
+	background: url(file:///D|/Local_Sites/lemsfordonline/mm_arrow1.gif) 14px 45% no-repeat;
+	}
+	
+#navigation a:hover {
+	background: #ffffff url(file:///D|/Local_Sites/lemsfordonline/mm_arrow1.gif) 14px 45% no-repeat;
+	color:#FF6600;
+	}
+	
+#logo 	{
+	font:24px Verdana, Arial, Helvetica, sans-serif;
+	color: #CCFF99;
+	letter-spacing:.2em;
+	line-height:30px;
+	}
+
+#tagline 	{	
+	font:12px Verdana, Arial, Helvetica, sans-serif;
+	color: #FF9933;
+	letter-spacing:.4em;
+	line-height:18px;
+	}
+
+#monthformat {
+	border-bottom: 2px solid #E6F3FF;
+		}
+		
+#dateformat {
+	color: #FFFFFF;
+	letter-spacing:.2em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	}
+	
+#dateformat a {
+	font:11px Verdana, Arial, Helvetica, sans-serif;
+	color: #003366;
+	font-weight:bold;
+	letter-spacing:.1em;
+	}
+	
+#dateformat a:hover {
+	color: #FF6600;
+	letter-spacing:.1em;
+	}
+	
+/* Class Styles */
+	
+.bodyText {
+	color: #333333;
+	line-height:20px;
+	margin-top:0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin-left: 15px;
+	}
+	
+.lightBodyText {
+	color: #FFFFFF;
+	line-height:20px;
+	margin-top:0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	}
+
+.largeBodyText {
+	color:#009900;
+	line-height:20px;
+	margin-top:0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight:600;
+	}
+	
+.pageName{
+	color: #516025;
+	line-height:24px;
+	letter-spacing:0.2em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	}
+	
+.subHeader {
+	color: #c86000;
+	line-height:16px;
+	letter-spacing:.2em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	}
+
+.quote {
+	font: 20px Verdana, Arial, Helvetica, sans-serif;
+	color: #759DA1;
+	line-height:30px;
+	}
+	
+.smallText {
+	font: 10px Verdana, Arial, Helvetica, sans-serif;
+	color: #003366;
+	}
+	
+.navText {
+	color: #4B187A;
+	line-height:16px;
+	letter-spacing:.1em;
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	}
+	
+.imgleft {
+float: left;
+padding: 6px 10px 6px 10px;
+}
+
+.imgright {
+float: right;
+padding: 6px 10px 6px 10px;
+}
+
+#navigation td {
+	border-bottom: 2px solid #006600;
+	}
+	
+#navigation a {
+	font: 18px Verdana, Arial, Helvetica, sans-serif;
+	color: #009900;
+	line-height:16px;
+	letter-spacing:.1em;
+	text-decoration: none;
+	display:block;
+	padding:8px 6px 10px 26px;
+	background: url(file:///D|/Local_Sites/lemsfordonline/mm_arrow.gif) 14px 45% no-repeat;
+	}
+	
+#navigation a:hover {
+	background: #ffffff url(file:///D|/Local_Sites/lemsfordonline/mm_arrow.gif) 14px 45% no-repeat;
+	color:#FFe564;
+	}
+	
